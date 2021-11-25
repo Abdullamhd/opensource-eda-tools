@@ -10,5 +10,12 @@ Singer describes how data extraction scripts—called “taps” —and data loa
  combination to move data from any source to any destination. Send data between   
  databases, web APIs, files, queues, and just about anything else you can think of.
 
+
+   An open source tool for moving data from any source to any destination.
+
+
  ---
- 
+
+
+  ---
+
