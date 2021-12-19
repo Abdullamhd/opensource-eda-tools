@@ -49,8 +49,18 @@ https://kepler.gl/
  https://github.com/getredash/redash
 
 
+ ---
+
+ ### OpenSource Data Wherehose tool library
+
+20K Stars in github 
+
+ https://github.com/ClickHouse/ClickHouse 
+
+
  
 
+----
 
  
 
