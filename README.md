@@ -83,8 +83,12 @@ https://pypi.org/project/quickda/
 
  ---
 
+## Flyte 
+### 1.5k Github stars 
 
- 
+https://flyte.org/
+
+ Flyte is a scalable open source MLOps platform for maintaining machine learning and data processing workflows  . It tracks different versions for changes in the model and containerizes it alongside its dependencies to make every step of the execution reproducible.
 
 
 
