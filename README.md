@@ -91,7 +91,16 @@ https://flyte.org/
  Flyte is a scalable open source MLOps platform for maintaining machine learning and data processing workflows  . It tracks different versions for changes in the model and containerizes it alongside its dependencies to make every step of the execution reproducible.
 
 
+## Nuclio
+## Automating the Data Science Pipeline with Serverless Functions
+
+
 
  
+## Collected ML tools site , 
+### This site offer ML solutions as well . 
+
+https://datarevenue.com/machine-learning-software-tools
+
 
  
